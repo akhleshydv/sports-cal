@@ -1,5 +1,6 @@
 # 🏆 Sports Tournament Calendar - React Native App
 
+Live demo:https://sports-tournament-calendar.netlify.app
 video link: https://drive.google.com/file/d/1NvJ7VY7K8KMbbl9qYAShUCf1Od7cbS-u/view?usp=sharing
 
 A beautiful React Native application that displays sports tournaments in an interactive calendar and card view format. Built with TypeScript and Expo for easy deployment.
