@@ -1,5 +1,7 @@
 # 🏆 Sports Tournament Calendar - React Native App
 
+video link: https://drive.google.com/file/d/1NvJ7VY7K8KMbbl9qYAShUCf1Od7cbS-u/view?usp=sharing
+
 A beautiful React Native application that displays sports tournaments in an interactive calendar and card view format. Built with TypeScript and Expo for easy deployment.
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
